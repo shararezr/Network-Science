@@ -3,4 +3,5 @@ The objective of this analysis is to understand the interaction patterns, key in
 117th United States Congress House of Representatives.
 
 Language: Python
+
 Libraries: sklearn, networkx, pandas, numpy, sknetwork, matplotlib
